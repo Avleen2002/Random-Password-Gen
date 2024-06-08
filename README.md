@@ -11,6 +11,6 @@ Secure Randomness: Utilizes Python's random module for cryptographically secure 
 ## To Run
 Copy code
 
-python password_generator.py
+python RandomPasswordGen.py
 
 Follow the prompts to generate a password with your preferred options.
